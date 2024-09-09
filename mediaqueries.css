@@ -1,0 +1,28 @@
+@media screen and (max-width: 1024px) {
+    .video-container{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width :1024px) {
+    .video-container{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    body{
+        background-color: #141414;
+    }
+    #hamburger-nav {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .top-search {
+        margin-top : 1.5rem;
+        margin-bottom: -0.5rem;
+    }
+}
